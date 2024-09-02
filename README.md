@@ -1,0 +1,2 @@
+- record a song
+- send it to friend as URL
